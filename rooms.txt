@@ -1,0 +1,344 @@
+2317:
+== Foothills ==
+You find yourself standing at the base of an enormous mountain.  At its base to the north, there is a massive doorway.  A sign nearby reads "Keep out!  Definitely no treasure within!"
+
+Things of interest here:
+- tablet
+
+There are 2 exits:
+- doorway -> 2327
+- south -> 2322
+
+
+2322:
+== Foothills ==
+As you begin to leave, you feel the urge for adventure pulling you back...
+
+There is 1 exit:
+- north -> 2317
+
+
+2327:
+== Dark cave ==
+This seems to be the mouth of a deep cave.  As you peer north into the darkness, you think you hear the echoes of bats deeper within.
+
+There are 2 exits:
+- north -> 2332
+- south -> 2317
+
+
+2332:
+== Dark cave ==
+The cave is somewhat narrow here, and the light from the doorway to the south is quite dim.
+
+There are 2 exits:
+- north -> 2337
+- south -> 2327
+
+
+2337:
+== Dark cave ==
+The cave acoustics dramatically change as you find yourself at a legde above a large chasm.  There is barely enough light here to notice a rope bridge leading out into the dark emptiness.
+
+There are 2 exits:
+- bridge -> 2342
+- south -> 2327
+
+2342:
+== Rope bridge ==
+This rope bridge creaks as you walk along it.  You aren't sure how old it is, or whether it can even support your weight.
+
+There are 2 exits:
+- continue -> 2347
+- back -> 2337
+
+2347:
+== Falling through the air! ==
+As you continue along the bridge, it snaps!  You try to grab the bridge, but it evades your grasp in the darkness.  You are plummeting quickly downward into the chasm...
+
+There is 1 exit:
+- down -> 2352
+
+2352:
+== Moss cavern ==
+You are standing in a large cavern full of bioluminescent moss.  It must have broken your fall!  The cavern extends to the east and west; at the west end, you think you see a passage leading out of the cavern.
+
+There are 2 exits:
+- west -> 2362
+- east -> 2357
+
+2357:
+== Moss cavern ==
+You are standing in a large cavern full of bioluminescent moss.  The cavern extends to the west.
+
+Things of interest here:
+- empty lantern
+
+There is 1 exit:
+- west -> 2352
+
+2362:
+== Moss cavern ==
+You are standing in a large cavern full of bioluminescent moss.  The cavern extends to the east.  There is a crevise in the rocks which opens into a passage.
+
+There are 2 exits:
+- east -> 2352
+- passage -> 2367
+
+2367:
+== Passage ==
+You are in a crevise on the west wall of the moss cavern.  A dark passage leads further west.  There is a ladder here which leads down into a smaller, moss-filled cavern below.
+
+There are 3 exits:
+- cavern -> 2362
+- ladder -> 2377
+- darkness -> 2372
+
+2372:
+== Passage ==
+It is pitch black.  You are likely to be eaten by a grue.
+
+There are 2 exits:
+- continue -> 2648 (2427 if lit lantern)
+- back -> 2367
+
+2377:
+== Twisty passages ==
+You are in a maze of twisty little passages, all dimly lit by more bioluminescent moss.  There is a ladder here leading up.
+
+There are 5 exits:
+- ladder -> 2367
+- north -> 2382
+- south -> 2387
+- east -> 2392
+- west -> 2397
+
+2382:
+== Twisty passages ==
+You are in a twisty maze of little passages, all alike.
+
+There are 3 exits:
+- north -> 2387
+- south -> 2377
+- west -> 2382
+
+2387:
+== Twisty passages ==
+You are in a maze of little twisty passages, all alike.
+
+There are 3 exits:
+- north -> 2377
+- south -> 2382
+- east -> 2387
+
+2392:
+== Twisty passages ==
+You are in a maze of alike little passages, all twisty.
+
+The passage to the east looks very dark; you think you hear a Grue.
+
+There are 4 exits:
+- north -> 2407
+- south -> 2392
+- west -> 2377
+- east -> 2648  (if lit lantern, 2422)
+
+2397:
+== Twisty passages ==
+You are in a little maze of twisty passages, all alike.
+
+There are 3 exits:
+- north -> 2397
+- south -> 2402
+- east -> 2377
+
+2402:
+== Twisty passages ==
+You are in a twisty alike of little passages, all maze.
+
+The east passage appears very dark; you feel likely to be eaten by a Grue.
+
+There are 4 exits:
+- north -> 2417
+- south -> 2382
+- west -> 2387
+- east -> 2648 (if lit lantern, 2422)
+
+2407:
+== Twisty passages ==
+You are in a maze of alike twisty passages, all little.
+
+There are 3 exits:
+- north -> 2387
+- east -> 2382
+- south -> 2407
+
+
+2417:
+== Twisty passages ==
+You are in a maze of twisty little passages, all alike.
+
+Things of interest here:
+- can
+
+There is 1 exit:
+- west -> 2377
+
+2422:
+== Twisty passages ==
+You are in a twisty maze of little passages, all alike.
+
+There are 2 exits:
+- north -> 2387
+- south -> 2382
+
+2427:
+== Dark passage ==
+You are in a narrow passage.  There is darkness to the west, but you can barely see a glowing opening to the east.
+
+There are 2 exits:
+- west -> 2432
+- east -> 2372
+
+2432:
+== Dark passage ==
+You are in a dark, narrow passage.
+
+There are 2 exits:
+- east -> 2427
+- west -> 2437
+
+2437:
+== Dark passage ==
+You are in a dark, narrow passage.
+
+There are 2 exits:
+- east -> 2432
+- west -> 2442
+
+2442:
+== Dark passage ==
+You are in a dark, narrow passage.  To the west, you spot some vegetation where the passage expands.
+
+There are 2 exits:
+- east -> 2437
+- west -> 2447
+
+2447:
+== Ruins ==
+You stand in a large cavern with a huge ruin to the north, overgrown by plant life.  There is a large stone archway to the north acting as the doorway to the ruined complex.  A crevice in the rock to the east leads to an alarmingly dark passageway.
+
+There are 2 exits:
+- east -> 2442
+- north -> 2452
+
+2452:
+== Ruins ==
+You are in the once-opulent foyer of a massive ruined complex.  There is a door to the south leading to the overgrowth outside and stairs to the north which lead into a larger hall.
+
+Things of interest here:
+- red coin
+
+There are 2 exits:
+- north -> 2457
+- south -> 2447
+
+2457:
+== Ruins ==
+You stand in the massive central hall of these ruins.  The walls are crumbling, and vegetation has clearly taken over.  Rooms are attached in all directions.  There is a strange monument in the center of the hall with circular slots and unusual symbols.  It reads:
+
+_ + _ * _^2 + _^3 - _ = 399
+
+There are 4 exits:
+- north -> 2463 (locked door, need to solve equation using coins)
+- south -> 2452
+- east -> 2468
+- west -> 2478
+
+2463:
+== Ruins ==
+Because it has been so well-protected, this room hardly shows signs of decay.  The walls are covered in elaborate murals and decorated with precious metals and stones.
+
+Things of interest here:
+- teleporter
+
+There is 1 exit:
+- south -> 2457
+
+2468:
+== Ruins ==
+You stand in what seems to have once been a dining hall; broken tables and pottery are scattered everywhere.  A staircase here leads down.
+
+Things of interest here:
+- concave coin
+
+There are 2 exits:
+- down -> 2473
+- west -> 2457
+
+2473:
+== Ruins ==
+This seems to be a kitchen; there are brick stoves and shelves along the wall.  Everything here has fallen into disrepair.
+
+Things of interest here:
+- corroded coin
+
+There is 1 exit:
+- up -> 2468
+
+2478:
+== Ruins ==
+You find yourself in what was once the living quarters for the complex.  Many smaller rooms which once had walls to divide them now lay in disarray.  There is a staircase up here.
+
+Things of interest here:
+- blue coin
+
+There are 2 exits:
+- up -> 2483
+- east -> 2457
+
+2483:
+== Ruins ==
+This was long ago a lavish throne room.  Dried-up fountains and crumbling statues line the walls, and the carved stone throne in the center of the room is falling apart.
+
+Things of interest here:
+- shiny coin
+
+There is 1 exit:
+- down -> 2478
+
+2488:
+== Synacor Headquarters ==
+You stand in the lobby of what appears to be a really fun place to work!  Sadly, there doesn't seem to be anyone around at the moment, so you make a note to call them later.  The bookshelf here looks like it might have something interesting in it, though.
+
+Things of interest here:
+- business card
+- strange book
+
+There is 1 exit:
+- outside
+
+2648:
+== Fumbling around in the darkness ==
+Without a source of light, you have become hopelessly lost and are fumbling around in the darkness.
+
+There are 2 exits:
+- forward -> 2653
+- back -> 2653
+
+2653:
+== Fumbling around in the darkness ==
+You can't seem to find your way.  However, you do think you hear low growling in the distance.
+
+There are 2 exits:
+- run -> 2658
+- investigate -> 2658
+
+2658:
+== Panicked and lost ==
+The growling is getting louder.  Did I mention there are Grues down here?
+
+There are 3 exits:
+- run -> EATEN
+- wait -> EATEN
+- hide
