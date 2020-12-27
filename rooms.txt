@@ -316,7 +316,314 @@ Things of interest here:
 - strange book
 
 There is 1 exit:
-- outside
+- outside -> 2493
+
+2493:
+== Synacor Headquarters ==
+It's a warm, sunny day!  While the breeze from Lake Erie is certainly refreshing, you don't see anything here that will help you with your quest.
+
+There is 1 exit:
+- inside
+
+2498:
+== Beach ==
+This is a sandy beach in a cove on some tropical island.  It is raining.  The ocean is to your south, and heavy foliage is to your north; the beach extends west and east.
+
+There are 3 exits:
+- west -> 2503
+- east -> 2508
+- north -> 2513
+
+2503:
+== Beach ==
+This is a sandy beach in a cove on some tropical island.  It is raining.  To your west is an embankment of the cove which looks too steep to climb.  The beach extends to the east, and there is dense foliage to the north.  The ocean to the south seems uninviting.
+
+There are 2 exits:
+- east -> 2498
+- north -> 2513
+
+2508:
+== Beach ==
+This is a sandy beach in a cove on some tropical island.  It is raining.  The steep cove embankment to your east blocks your path, and the ocean waters here look unsafe.  The beach extends to the west, and there is dense foliage to the north.
+
+There are 2 exits:
+- west -> 2498
+- north -> 2518
+
+2513:
+== Tropical Island ==
+The large trees here seem to be protecting you from the rain.  As you push through the undergrowth, you can hear birds chirping overhead.  There is a steep rock face to your west blocking your path.
+
+There are 3 exits:
+- north -> 2523
+- south -> 2498
+- east -> 2518
+
+2518:
+== Tropical Island ==
+The east embankment of the cove towers over you.  It produces a small waterfall here which cascades excitedly into a pool.
+
+There are 3 exits:
+- north -> 2523
+- south -> 2508
+- west -> 2513
+
+2523:
+== Tropical Island ==
+The embankment of the cove come toegher here to your east and west.  Between these tall rock faces, there is a narrow, overgrown path leading north.  You hear waves lapping up on a beach through the dense vegetation to your south.
+
+There are 2 exits:
+- north -> 2528
+- south -> 2513
+
+2528:
+== Tropical Island ==
+You are on a narrow path between two steep rock faces which look like they have been here for thousands of years.  Rain trickles down through the vegetation and moss, and through the leaves you can occasionally see a sliver of light hundreds of feet above you where the rock walls end.
+
+There are 2 exits:
+- north -> 2533
+- south -> 2523
+
+2533:
+== Tropical Island ==
+The narrow path slopes downward to the north and leads to the mouth of a small cave.  A sign nearby reads "Treasure Vault Access", but different handwriting has crossed this out and written "Lair of Horrible Monster!  All non-pirates keep out!".
+
+There are 2 exits:
+- north -> 2538
+- south -> 2528
+
+2538:
+== Tropical Cave ==
+You stand at the entrance to a natural cave which looks like it hasn't been visited in quite some time.  Light pours in through the opening to the south, while fireflies light the path further into the cave to the north.
+
+There are 2 exits:
+- north -> 2543
+- south -> 2533
+
+2543:
+== Tropical Cave ==
+Fireflies slowly drift around you and light the tunnel, which seems to get brighter to the south, but dimmer to the north.
+
+There are 2 exits:
+- north -> 2548
+- south -> 2538
+
+2548:
+== Tropical Cave ==
+The cave is a little wider here.  You find the cobweb-encrusted remains of a small camp, and although you don't suspect the broken pieces of tables and chairs will prove useful to your quest, the fireflies seem to like using the debris as a shelter.  A passageway leads north and south, and there is an alcove to the east.
+
+There are 3 exits:
+- north -> 2558
+- south -> 2543
+- east -> 2553
+
+2553:
+== Tropical Cave Alcove ==
+At the back of this alcove, there is a small table, a chair, and a broken lantern.  It looks like this space was used much more recently than the camp to the west.
+
+Things of interest here:
+- journal
+
+There is 1 exit:
+- west -> 2548
+
+2558:
+== Tropical Cave ==
+This tunnel slopes deeper underground to the north, but the fireflies are all around to light your path.
+
+There are 2 exits:
+- north -> 2623
+- south -> 2548
+
+2563:
+== Vault Lock ==
+You are in a grid of rooms that control the door to the vault.
+
+The floor of this room is a large mosaic depicting a '*' symbol.
+
+There are 2 exits:
+- east -> 2568
+- south -> 2583
+
+2568:
+== Vault Lock ==
+You are in a grid of rooms that control the door to the vault.
+
+The floor of this room is a large mosaic depicting the number '8'.
+
+There are 3 exits:
+- east -> 2573
+- south -> 2588
+- west -> 2563
+
+2573:
+== Vault Lock ==
+You are in a grid of rooms that control the door to the vault.
+
+The floor of this room is a large mosaic depicting a '-' symbol.
+
+There are 3 exits:
+- east -> 2578
+- south -> 2593
+- west -> 2568
+
+2578:
+== Vault Door ==
+You stand before the door to the vault; it has a large '30' carved into it.  Affixed to the wall near the door, there is a running hourglass which never seems to run out of sand.
+
+The floor of this room is a large mosaic depicting the number '1'.
+
+There are 3 exits:
+- south -> 2598
+- west -> 2573
+- vault
+
+2583:
+== Vault Lock ==
+You are in a grid of rooms that control the door to the vault.
+
+The floor of this room is a large mosaic depicting the number '4'.
+
+There are 3 exits:
+- north -> 2563
+- east -> 2588
+- south -> 2603
+
+2588:
+== Vault Lock ==
+You are in a grid of rooms that control the door to the vault.
+
+The floor of this room is a large mosaic depicting a '*' symbol.
+
+There are 4 exits:
+- north -> 2568
+- east -> 2593
+- south -> 2608
+- west -> 2583
+
+2593:
+== Vault Lock ==
+You are in a grid of rooms that control the door to the vault.
+
+The floor of this room is a large mosaic depicting the number '11'.
+
+There are 4 exits:
+- north -> 2573
+- east -> 2598
+- south -> 2613
+- west -> 2588
+
+2598:
+== Vault Lock ==
+You are in a grid of rooms that control the door to the vault.
+
+The floor of this room is a large mosaic depicting a '*' symbol.
+
+There are 3 exits:
+- north -> 2578
+- south -> 2618
+- west -> 2593
+
+2603:
+== Vault Lock ==
+You are in a grid of rooms that control the door to the vault.
+
+The floor of this room is a large mosaic depicting a '+' symbol.
+
+There are 3 exits:
+- north -> 2583
+- east -> 2608
+- south -> 2623
+
+2608:
+== Vault Lock ==
+You are in a grid of rooms that control the door to the vault.
+
+The floor of this room is a large mosaic depicting the number '4'.
+
+There are 4 exits:
+- north -> 2588
+- east -> 2613
+- south -> 2628
+- west -> 2603
+
+2613:
+== Vault Lock ==
+You are in a grid of rooms that control the door to the vault.
+
+The floor of this room is a large mosaic depicting a '-' symbol.
+
+There are 4 exits:
+- north -> 2593
+- east -> 2618
+- south -> 2633
+- west -> 2608
+
+2618:
+== Vault Lock ==
+You are in a grid of rooms that control the door to the vault.
+
+The floor of this room is a large mosaic depicting the number '18'.
+
+There are 3 exits:
+- north -> 2598
+- south -> 2638
+- west -> 2613
+
+2623:
+== Vault Antechamber ==
+You are in the antechamber to a grid of rooms that control the door to the vault.  You notice the number '22' is carved into the orb's pedestal.
+
+Things of interest here:
+- orb
+
+There are 3 exits:
+- north -> 2603
+- east -> 2628
+- south -> 2558
+
+2628:
+== Vault Lock ==
+You are in a grid of rooms that control the door to the vault.
+
+The floor of this room is a large mosaic depicting a '-' symbol.
+
+There are 3 exits:
+- north -> 2608
+- east -> 2633
+- west -> 2623
+
+2633:
+== Vault Lock ==
+You are in a grid of rooms that control the door to the vault.
+
+The floor of this room is a large mosaic depicting the number '9'.
+
+There are 3 exits:
+- north -> 2613
+- east -> 2638
+- west -> 2628
+
+2638:
+== Vault Lock ==
+You are in a grid of rooms that control the door to the vault.
+
+The floor of this room is a large mosaic depicting a '*' symbol.
+
+There are 2 exits:
+- north -> 2618
+- west -> 2633
+
+2643:
+== Vault ==
+This vault contains incredible riches!  Piles of gold and platinum coins surround you, and the walls are adorned with topazes, rubies, sapphires, emeralds, opals, dilithium crystals, elerium-115, and unobtainium.
+
+Things of interest here:
+- mirror
+
+There is 1 exit:
+- leave
+
 
 2648:
 == Fumbling around in the darkness ==
